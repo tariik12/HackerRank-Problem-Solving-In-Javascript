@@ -1,5 +1,6 @@
 /**
- * 
+ * Problem Soluctions
+ *https://www.hackerrank.com/challenges/kangaroo
  * PRA *
  * The first kangaroo starts at location x1 & moves at a rate of V1;
  * The second kangaroo starts at location x2 & moves at a rate of v2;
